@@ -1,8 +1,6 @@
 ## 💻 Sobre o projeto
 
 O Controle.financeiro$ é uma aplicação pagar gerenciar seu financeiro, onde é possível cadastrar, excluir transações e ver o saldo de entrada e saída 💰
-
-
 <br>
 
 ## 🧪 Tecnologias usadas
@@ -36,13 +34,6 @@ $ yarn
 $ yarn dev
 ```
 
-<h1 align="center">
-    <img width="900px" alt="Imagem da tela de Posts" src=".github/modal.PNG" />
-</h1>
-
-<h1 align="center">
-    <img width="900px" alt="Imagem da tela de Posts" src=".github/full-home.PNG" />
-</h1>
 
 O app estará disponível no seu browser pelo endereço http://localhost:3000 assim que iniciado.
 
