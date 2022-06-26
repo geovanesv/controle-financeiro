@@ -34,6 +34,9 @@ $ yarn
 $ yarn dev
 ```
 
-
 O app estará disponível no seu browser pelo endereço http://localhost:3000 assim que iniciado.
+
+## Preview
+![controle-financeiro](https://user-images.githubusercontent.com/49567926/175820695-9f8f0b6b-42b8-40fc-9174-f97e345e2e50.gif)
+
 
