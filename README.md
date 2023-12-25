@@ -1,42 +1,22 @@
-## 💻 Sobre o projeto
 
-O Controle.financeiro$ é uma aplicação pagar gerenciar seu financeiro, onde é possível cadastrar, excluir transações e ver o saldo de entrada e saída 💰
-<br>
-
-## 🧪 Tecnologias usadas
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- [Vite](https://vitejs.dev/)
-- [React](https://reactjs.org)
-- [TypeScript](https://www.typescriptlang.org/)
-- [SCSS](https://sass-lang.com/)
-- [Styled-Components](https://styled-components.com/)
-
-## 🔗 Clone a aplicação
-
-Clone o projeto e acesse a pasta do mesmo.
-
-```bash
-$ git clone https://github.com/geovanesv/controle-financeiro
-$ cd controle-financeiro
-```
-
-## 🚀 Como iniciar a aplicação
-
-Para iniciá-lo, siga os passos abaixo:
-
-```bash
-# Instalando dependências:
-$ yarn
-
-# Rodando em modo de desenvolvimento:
-$ yarn dev
-```
-
-O app estará disponível no seu browser pelo endereço http://localhost:3000 assim que iniciado.
-
-## Preview
-![controle-financeiro](https://user-images.githubusercontent.com/49567926/175820695-9f8f0b6b-42b8-40fc-9174-f97e345e2e50.gif)
+👤 **Geovane Araujo** 
 
 
+
+<p align="center">
+  <img alt="Documentation" src="https://img.shields.io/static/v1?label=Documentation&message=V1.0&color=f1c40f&labelColor=444444"> 
+  
+  <img alt="Back-end" src="https://img.shields.io/static/v1?label=Back-end&message=Ok&color=27ae60&labelColor=444444">
+  
+  <img alt="Front-end" src="https://img.shields.io/static/v1?label=Front-end&message=Ok&color=27ae60&labelColor=444444"> 
+  
+  <img alt="Tests" src="https://img.shields.io/static/v1?label=Test&message=Ok&color=27ae60&labelColor=444444">
+</p>
+
+
+
+<span id="projeto"></span>
+## Projeto Controle Financeiro
+
+Neste projeto, está sendo desenvolvido um gerenciador financeiro, com a possibilidade de inserir os valores recebidos e pagos por mês. Possuindo Registro e Login para separarmos o controle financeiro por usuário.
+está em andamento.
