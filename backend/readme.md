@@ -1,2 +1,1 @@
-
-👤 **Geovane Araujo** 
+ **Geovane Araujo** 
