@@ -20,3 +20,6 @@
 
 Neste projeto, está sendo desenvolvido um gerenciador financeiro, com a possibilidade de inserir os valores recebidos e pagos por mês. Possuindo Registro e Login para separarmos o controle financeiro por usuário.
 está em andamento.
+
+
+projeto ainda está em andamento.
