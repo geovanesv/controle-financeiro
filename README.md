@@ -18,6 +18,8 @@
 <span id="projeto"></span>
 ## Projeto Controle Financeiro
 
+![controle_financeiro](https://github.com/geovanesv/controle-financeiro/assets/49567926/4e3584e7-fa24-40fe-bbd5-f02b2d8b9437)
+
 Neste projeto, está sendo desenvolvido um gerenciador financeiro, com a possibilidade de inserir os valores recebidos e pagos por mês. Possuindo Registro e Login para separarmos o controle financeiro por usuário.
 está em andamento.
 
